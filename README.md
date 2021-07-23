@@ -8,6 +8,6 @@ result output to .csv and mysql database described in pipelines.py
 # new info.py
 input a xlsx  
 which consists of 8 columns, the 5th 6th 7th 8th column is  
-from to quantitys method
-**example: test.xlsx**
+from to quantitys method  
+**example: test.xlsx**  
 output info to the 9th column
